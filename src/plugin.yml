@@ -1,0 +1,8 @@
+name: WhereIsBryan
+main: strimy.bukkit.plugins.where.WhereIsPlugin
+version: 1.0rc1
+
+commands:
+    where: 
+        description: Configure the ShowDamage plugin
+        usage: /where {username}
